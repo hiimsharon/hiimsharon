@@ -1,13 +1,18 @@
 # HW Huang
 
-🎓 Master's degree  
-Currently learning: Deep Learning - RNN  
+Master's student interested in **Machine Learning and Deep Learning**.
+
+Currently studying:
+- Deep Learning
+- Time series modeling
+
 Contact: ykes.sharon@gmail.com  
-Resume: https://www.cake.me/s--52UvYNFXgwlmNjo5gizz4w--/s-h-7afd56  
+Resume:  
+https://www.cake.me/s--52UvYNFXgwlmNjo5gizz4w--/s-h-7afd56  
 
 ---
 
-## Languages and Tools
+### Languages and Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,keras,pandas,numpy,opencv,sklearn,jupyter,mongodb,anaconda" />
@@ -15,7 +20,7 @@ Resume: https://www.cake.me/s--52UvYNFXgwlmNjo5gizz4w--/s-h-7afd56
 
 ---
 
-## GitHub Stats
+### GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hiimsharon&show_icons=true&count_private=true)
 
@@ -23,12 +28,12 @@ Resume: https://www.cake.me/s--52UvYNFXgwlmNjo5gizz4w--/s-h-7afd56
 
 ---
 
-## Achievements
+### Achievements
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=hiimsharon)
 
 ---
 
-## Profile Views
+### Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hiimsharon&label=Profile%20views&color=0e75b6&style=flat)

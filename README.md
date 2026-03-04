@@ -1,100 +1,16 @@
-{
-  "version": "1.0.0",
-  "exportedAt": "2026-03-04T08:43:49.159Z",
-  "profile": {
-    "title": "HW Huang",
-    "subtitle": "",
-    "currentWork": "Master's degree",
-    "currentLearn": "Deep Learning- RNN",
-    "collaborateOn": "",
-    "helpWith": "Machine Learning, Deep Learning",
-    "ama": "",
-    "contact": "ykes.sharon@gmail.com",
-    "funFact": "",
-    "visitorsBadge": true,
-    "badgeStyle": "flat",
-    "badgeColor": "0e75b6",
-    "badgeLabel": "Profile views",
-    "githubProfileTrophy": true,
-    "githubStats": true,
-    "githubStatsOptions": {
-      "theme": "",
-      "titleColor": "",
-      "textColor": "",
-      "bgColor": "",
-      "hideBorder": false,
-      "cacheSeconds": null,
-      "locale": "en"
-    },
-    "topLanguages": true,
-    "topLanguagesOptions": {
-      "theme": "",
-      "titleColor": "",
-      "textColor": "",
-      "bgColor": "",
-      "hideBorder": false,
-      "cacheSeconds": null,
-      "locale": "en"
-    },
-    "streakStats": false,
-    "streakStatsOptions": {
-      "theme": ""
-    },
-    "devDynamicBlogs": false,
-    "mediumDynamicBlogs": false,
-    "rssDynamicBlogs": false
-  },
-  "links": {
-    "currentWork": "",
-    "collaborateOn": "",
-    "helpWith": "",
-    "portfolio": "",
-    "blog": "",
-    "resume": "https://www.cake.me/s--52UvYNFXgwlmNjo5gizz4w--/s-h-7afd56"
-  },
-  "social": {
-    "github": "hiimsharon",
-    "dev": "",
-    "linkedin": "",
-    "codepen": "",
-    "stackoverflow": "",
-    "kaggle": "",
-    "codesandbox": "",
-    "fb": "",
-    "instagram": "",
-    "twitter": "",
-    "dribbble": "",
-    "behance": "",
-    "medium": "",
-    "youtube": "",
-    "codechef": "",
-    "hackerrank": "",
-    "codeforces": "",
-    "leetcode": "",
-    "topcoder": "",
-    "hackerearth": "",
-    "geeks_for_geeks": "",
-    "discord": "",
-    "rssurl": "",
-    "twitterBadge": false
-  },
-  "support": {
-    "buyMeACoffee": ""
-  },
-  "skills": [
-    "anaconda",
-    "figma",
-    "html5",
-    "jupyter",
-    "keras",
-    "mongodb",
-    "numpy",
-    "opencv",
-    "pandas",
-    "photoshop",
-    "python",
-    "pytorch",
-    "scikit_learn",
-    "tensorflow"
-  ]
-}
+# HW Huang
+
+🎓 Master's degree  
+Currently learning: Deep Learning - RNN  
+Contact: ykes.sharon@gmail.com  
+Resume: https://www.cake.me/s--52UvYNFXgwlmNjo5gizz4w--/s-h-7afd56  
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=hiimsharon&label=Profile%20views&color=0e75b6&style=flat)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hiimsharon&show_icons=true&locale=en)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiimsharon&layout=compact&locale=en)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=hiimsharon)

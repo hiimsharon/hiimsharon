@@ -5,11 +5,7 @@ Currently learning: Deep Learning - RNN
 Contact: ykes.sharon@gmail.com  
 Resume: https://www.cake.me/s--52UvYNFXgwlmNjo5gizz4w--/s-h-7afd56  
 
----
 
-## Tech Stack
-
-![Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,keras,opencv,pandas,numpy,sklearn,jupyter,mongodb,anaconda)
 
 ---
 ### Languages and Tools

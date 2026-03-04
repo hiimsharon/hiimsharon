@@ -7,10 +7,46 @@ Resume: https://www.cake.me/s--52UvYNFXgwlmNjo5gizz4w--/s-h-7afd56
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=hiimsharon&label=Profile%20views&color=0e75b6&style=flat)
+## Tech Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hiimsharon&show_icons=true&locale=en)
+![Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,keras,opencv,pandas,numpy,sklearn,jupyter,mongodb,anaconda)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiimsharon&layout=compact&locale=en)
+---
+### Languages and Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,keras,pandas,numpy,opencv,sklearn,jupyter,mongodb,anaconda" />
+</p>
+
+---
+
+### Most Used Languages
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiimsharon&layout=compact" />
+</p>
+
+
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hiimsharon&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hiimsharon&layout=compact)
+
+---
+
+## Achievements
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=hiimsharon)
+
+---
+
+## Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=hiimsharon&label=Profile%20views&color=0e75b6&style=flat)
+
+---
+
+
+
